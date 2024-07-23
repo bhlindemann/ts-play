@@ -2,7 +2,7 @@
   "viewport": {
     "const": {
       "width": {
-        "value": "{viewport.const.min} }",
+        "value": "{viewport.xs}",
         "type": "sizing"
       }
     }
