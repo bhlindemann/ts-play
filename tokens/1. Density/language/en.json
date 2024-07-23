@@ -1,0 +1,31 @@
+{
+  "text": {
+    "heading": {
+      "value": "hello English 🎉",
+      "type": "other"
+    },
+    "subline": {
+      "value": "More flexibility, easier to manage.",
+      "type": "other"
+    },
+    "exciting": {
+      "value": "Exciting, right?",
+      "type": "other"
+    },
+    "badge": {
+      "value": "Now in Beta",
+      "type": "other"
+    }
+  },
+  "sans": {
+    "value": "Roboto",
+    "type": "fontFamilies"
+  },
+  "FontStack": {
+    "value": {
+      "fontFamily": "{sans}",
+      "fontWeight": "{fontWeight.normal}"
+    },
+    "type": "typography"
+  }
+}
