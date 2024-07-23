@@ -1,0 +1,15 @@
+{
+  "tokenSetOrder": [
+    "Branding/brandOne",
+    "Branding/brandTwo",
+    "Mode/light",
+    "Mode/dark",
+    "Density/default",
+    "Density/comfort",
+    "Density/dense",
+    "Props/sm (default)",
+    "Props/md",
+    "Theme/themeBrandOne",
+    "Theme/themeBrandTwo"
+  ]
+}

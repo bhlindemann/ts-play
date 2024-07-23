@@ -1,0 +1,567 @@
+{
+  "bg": {
+    "base": {
+      "default": {
+        "value": "{color.dark.bg.base.default}",
+        "type": "color",
+        "description": ""
+      },
+      "secondary": {
+        "value": "{color.dark.bg.base.secondary}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.bg.base.secondary}"
+      },
+      "emphasis": {
+        "value": "{color.dark.bg.base.emphasis}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.bg.base.emphasis}"
+      },
+      "bad": {
+        "value": "{color.dark.bg.base.bad}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.bg.base.bad}"
+      },
+      "decorative": {
+        "value": "{color.dark.bg.base.decorative}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.bg.base.decorative}"
+      }
+    },
+    "layout": {
+      "nav": {
+        "default": {
+          "value": "{color.dark.bg.layout.nav.default}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.layout.nav.default}"
+        },
+        "secondary": {
+          "value": "{color.dark.bg.layout.nav.secondary}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.layout.nav.secondary}"
+        }
+      }
+    },
+    "wrapper": {
+      "nav": {
+        "default": {
+          "value": "{color.dark.bg.wrapper.nav.default}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.wrapper.nav.default}"
+        },
+        "secondary": {
+          "value": "{color.dark.bg.wrapper.nav.secondary}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.wrapper.nav.secondary}"
+        }
+      }
+    },
+    "control": {
+      "default": {
+        "value": "{color.dark.bg.control.default}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.bg.control.default}"
+      },
+      "emphasis-default": {
+        "value": "{color.dark.bg.control.emphasis-default}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.bg.control.emphasis-default}"
+      }
+    },
+    "action": {
+      "primary": {
+        "default": {
+          "value": "{color.dark.bg.action.primary.default}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.primary.default}"
+        },
+        "hover": {
+          "value": "{color.dark.bg.action.primary.hover}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.primary.hover}"
+        },
+        "pressed": {
+          "value": "{color.dark.bg.action.primary.pressed}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.primary.pressed}"
+        },
+        "focus": {
+          "value": "{color.dark.bg.action.primary.focus}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.primary.focus}"
+        },
+        "disabled": {
+          "value": "{color.dark.bg.action.primary.disabled}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.primary.disabled}"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "{color.dark.bg.action.secondary.default}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.secondary.default}"
+        },
+        "hover": {
+          "value": "{color.dark.bg.action.secondary.hover}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.secondary.hover}"
+        },
+        "pressed": {
+          "value": "{color.dark.bg.action.secondary.pressed}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.secondary.pressed}"
+        },
+        "focus": {
+          "value": "{color.dark.bg.action.secondary.focus}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.secondary.focus}"
+        },
+        "disabled": {
+          "value": "{color.dark.bg.action.secondary.disabled}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.secondary.disabled}"
+        }
+      },
+      "tertiary": {
+        "default": {
+          "value": "{color.dark.bg.action.tertiary.default}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.tertiary.default}"
+        },
+        "hover": {
+          "value": "{color.dark.bg.action.tertiary.hover}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.tertiary.hover}"
+        },
+        "pressed": {
+          "value": "{color.dark.bg.action.tertiary.pressed}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.tertiary.pressed}"
+        },
+        "focus": {
+          "value": "{color.dark.bg.action.tertiary.focus}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.tertiary.focus}"
+        },
+        "disbaled": {
+          "value": "{color.dark.bg.action.tertiary.disabled}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.bg.action.tertiary.disabled}"
+        }
+      }
+    }
+  },
+  "text": {
+    "control": {
+      "default": {
+        "value": "{color.dark.text.control.default}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.text.control.default}"
+      },
+      "default-onInvert": {
+        "value": "{color.dark.text.control.default-onInvert}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.text.control.default-onInvert}"
+      }
+    },
+    "nav": {
+      "default": {
+        "value": "{color.dark.text.nav.default}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.text.nav.default}"
+      },
+      "default-onInvert": {
+        "value": "{color.dark.text.nav.default-onInvert}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.text.nav.default-onInvert}"
+      }
+    },
+    "action": {
+      "primary": {
+        "default": {
+          "value": "{color.dark.text.action.primary.default}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.primary.default}"
+        },
+        "hover": {
+          "value": "{color.dark.text.action.primary.hover}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.primary.hover}"
+        },
+        "pressed": {
+          "value": "{color.dark.text.action.primary.pressed}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.primary.pressed}"
+        },
+        "focus": {
+          "value": "{color.dark.text.action.primary.focus}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.primary.focus}"
+        },
+        "disabled": {
+          "value": "{color.dark.text.action.primary.disabled}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.primary.disabled}"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "{color.dark.text.action.secondary.default}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.secondary.default}"
+        },
+        "hover": {
+          "value": "{color.dark.text.action.secondary.hover}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.secondary.hover}"
+        },
+        "pressed": {
+          "value": "{color.dark.text.action.secondary.pressed}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.secondary.pressed}"
+        },
+        "focus": {
+          "value": "{color.dark.text.action.secondary.focus}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.secondary.focus}"
+        },
+        "disabled": {
+          "value": "{color.dark.text.action.secondary.disabled}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.secondary.disabled}"
+        }
+      },
+      "tertiary": {
+        "default": {
+          "value": "{color.dark.text.action.tertiary.default}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.tertiary.default}"
+        },
+        "hover": {
+          "value": "{color.dark.text.action.tertiary.hover}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.tertiary.hover}"
+        },
+        "pressed": {
+          "value": "{color.dark.text.action.tertiary.pressed}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.tertiary.pressed}"
+        },
+        "focus": {
+          "value": "{color.dark.text.action.tertiary.focus}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.tertiary.focus}"
+        },
+        "disabled": {
+          "value": "{color.dark.text.action.tertiary.disabled}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.text.action.tertiary.disabled}"
+        }
+      }
+    },
+    "base": {
+      "secondary": {
+        "value": "{color.dark.text.base.secondary}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.text.base.secondary}"
+      },
+      "primary": {
+        "value": "{color.dark.text.base.primary}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.text.base.primary}"
+      },
+      "bad": {
+        "value": "{color.dark.text.base.bad}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.text.base.bad}"
+      },
+      "primary-onInvert": {
+        "value": "{color.dark.text.base.primary-onInvert}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.text.base.primary-onInvert}"
+      }
+    }
+  },
+  "border": {
+    "base": {
+      "default": {
+        "value": "{color.dark.border.base.default}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.border.base.default}"
+      },
+      "contrast": {
+        "value": "{color.dark.border.base.contrast}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.border.base.contrast}"
+      }
+    },
+    "nav": {
+      "main": {
+        "value": "{color.dark.border.nav.main}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.border.nav.main}"
+      },
+      "main-layout": {
+        "value": "{color.dark.border.nav.main-layout}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.border.nav.main-layout}"
+      },
+      "main-content": {
+        "value": "{color.dark.border.nav.main-content}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.border.nav.main-content}"
+      }
+    },
+    "focus-ring": {
+      "default": {
+        "value": "{color.dark.border.focus-ring.default}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.border.focus-ring.default}"
+      },
+      "offset": {
+        "value": "{color.dark.border.focus-ring.offset}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.border.focus-ring.offset}"
+      }
+    },
+    "action": {
+      "primary": {
+        "default": {
+          "value": "{color.dark.border.action.primary.default}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.primary.default}"
+        },
+        "hover": {
+          "value": "{color.dark.border.action.primary.hover}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.primary.hover}"
+        },
+        "pressed": {
+          "value": "{color.dark.border.action.primary.pressed}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.primary.pressed}"
+        },
+        "focus": {
+          "value": "{color.dark.border.action.primary.focus}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.primary.focus}"
+        },
+        "disabled": {
+          "value": "{color.dark.border.action.primary.disabled}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.primary.disabled}"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "{color.dark.border.action.secondary.default}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.secondary.default}"
+        },
+        "hover": {
+          "value": "{color.dark.border.action.secondary.hover}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.secondary.hover}"
+        },
+        "pressed": {
+          "value": "{color.dark.border.action.secondary.pressed}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.secondary.pressed}"
+        },
+        "focus": {
+          "value": "{color.dark.border.action.secondary.focus}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.secondary.focus}"
+        },
+        "disabled": {
+          "value": "{color.dark.border.action.secondary.disabled}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.secondary.disabled}"
+        }
+      },
+      "tertiary": {
+        "default": {
+          "value": "{color.dark.border.action.tertiary.default}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.tertiary.default}"
+        },
+        "hover": {
+          "value": "{color.dark.border.action.tertiary.hover}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.tertiary.hover}"
+        },
+        "pressed": {
+          "value": "{color.dark.border.action.tertiary.pressed}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.tertiary.pressed}"
+        },
+        "focus": {
+          "value": "{color.dark.border.action.tertiary.focus}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.tertiary.focus}"
+        },
+        "disabled": {
+          "value": "{color.dark.border.action.tertiary.disabled}",
+          "type": "color",
+          "parent": "Mode/dark",
+          "description": "",
+          "oldValue": "{color.dark.border.action.tertiary.disabled}"
+        }
+      }
+    },
+    "control": {
+      "contrast": {
+        "value": "{color.dark.border.control.contrast}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.border.control.contrast}"
+      },
+      "emphasis-contrast": {
+        "value": "{color.dark.border.control.emphasis-contrast}",
+        "type": "color",
+        "parent": "Mode/dark",
+        "description": "",
+        "oldValue": "{color.dark.border.control.emphasis-contrast}"
+      }
+    }
+  }
+}

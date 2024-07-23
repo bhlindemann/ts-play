@@ -1,0 +1,27 @@
+{
+  "props": {
+    "nav": {
+      "hamburgerMenu": {
+        "value": "false",
+        "type": "boolean",
+        "description": ""
+      },
+      "list": {
+        "value": "true",
+        "type": "boolean",
+        "description": ""
+      }
+    },
+    "viewport2": {
+      "sm (default)": {
+        "value": "false",
+        "type": "boolean"
+      },
+      "md": {
+        "value": "true",
+        "type": "boolean",
+        "description": ""
+      }
+    }
+  }
+}
