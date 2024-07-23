@@ -1,0 +1,18 @@
+{
+  "viewport": {
+    "const": {
+      "width": {
+        "value": "{viewport.const.min} }",
+        "type": "sizing"
+      }
+    }
+  },
+  "semantic": {
+    "space-around": {
+      "container": {
+        "value": "{dimension.96}",
+        "type": "spacing"
+      }
+    }
+  }
+}

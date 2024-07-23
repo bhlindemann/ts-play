@@ -1,0 +1,12 @@
+{
+  "base": {
+    "size": {
+      "const": {
+        "font": {
+          "value": "{base.size.font.comfort}",
+          "type": "sizing"
+        }
+      }
+    }
+  }
+}

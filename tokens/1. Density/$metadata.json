@@ -1,15 +1,19 @@
 {
   "tokenSetOrder": [
-    "Branding/brandOne",
-    "Branding/brandTwo",
+    "Core/brand",
+    "Themes/One",
     "Mode/light",
     "Mode/dark",
     "Density/default",
     "Density/comfort",
     "Density/dense",
-    "Props/sm (default)",
-    "Props/md",
-    "Theme/themeBrandOne",
-    "Theme/themeBrandTwo"
+    "viewport/@xs",
+    "viewport/@sm",
+    "viewport/@md",
+    "viewport/@xl",
+    "viewport/@2xl",
+    "density/@dense",
+    "density/@default",
+    "density/@comfort"
   ]
 }
