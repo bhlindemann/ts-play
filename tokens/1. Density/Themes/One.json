@@ -46,10 +46,14 @@
         "@2xl": {
           "value": "1.5vw",
           "type": "sizing"
+        },
+        "const": {
+          "value": "{base.font.size.const}",
+          "type": "sizing"
         }
       },
       "point": {
-        "value": "{base.font.size.default} / 4",
+        "value": "{base.font.size.const} / 4",
         "type": "sizing",
         "description": "Figma Use"
       }
@@ -1788,227 +1792,227 @@
       "description": ""
     },
     "1": {
-      "value": "{base.font.size.default} * 0.25",
+      "value": "{base.font.size.const} * 0.25",
       "type": "dimension",
       "description": ""
     },
     "2": {
-      "value": "{base.font.size.default} * 0.5",
+      "value": "{base.font.size.const} * 0.5",
       "type": "dimension",
       "description": ""
     },
     "3": {
-      "value": "{base.font.size.default} * 0.75",
+      "value": "{base.font.size.const} * 0.75",
       "type": "dimension",
       "description": ""
     },
     "4": {
-      "value": "{base.font.size.default} * 1",
+      "value": "{base.font.size.const} * 1",
       "type": "dimension",
       "description": ""
     },
     "5": {
-      "value": "{base.font.size.default} * 1.25",
+      "value": "{base.font.size.const} * 1.25",
       "type": "dimension",
       "description": ""
     },
     "6": {
-      "value": "{base.font.size.default} * 1.5",
+      "value": "{base.font.size.const} * 1.5",
       "type": "dimension",
       "description": ""
     },
     "7": {
-      "value": "{base.font.size.default} * 1.75",
+      "value": "{base.font.size.const} * 1.75",
       "type": "dimension",
       "description": ""
     },
     "8": {
-      "value": "{base.font.size.default} * 2",
+      "value": "{base.font.size.const} * 2",
       "type": "dimension",
       "description": ""
     },
     "9": {
-      "value": "{base.font.size.default} * 2.25",
+      "value": "{base.font.size.const} * 2.25",
       "type": "dimension",
       "description": ""
     },
     "10": {
-      "value": "{base.font.size.default} * 2.5",
+      "value": "{base.font.size.const} * 2.5",
       "type": "dimension",
       "description": ""
     },
     "11": {
-      "value": "{base.font.size.default} * 2.75",
+      "value": "{base.font.size.const} * 2.75",
       "type": "dimension",
       "description": ""
     },
     "12": {
-      "value": "{base.font.size.default} * 3",
+      "value": "{base.font.size.const} * 3",
       "type": "dimension",
       "description": ""
     },
     "14": {
-      "value": "{base.font.size.default} * 3.5",
+      "value": "{base.font.size.const} * 3.5",
       "type": "dimension",
       "description": ""
     },
     "16": {
-      "value": "{base.font.size.default} * 4",
+      "value": "{base.font.size.const} * 4",
       "type": "dimension",
       "description": ""
     },
     "20": {
-      "value": "{base.font.size.default} * 5",
+      "value": "{base.font.size.const} * 5",
       "type": "dimension",
       "description": ""
     },
     "24": {
-      "value": "{base.font.size.default} * 6",
+      "value": "{base.font.size.const} * 6",
       "type": "dimension",
       "description": ""
     },
     "28": {
-      "value": "{base.font.size.default} * 7",
+      "value": "{base.font.size.const} * 7",
       "type": "dimension",
       "description": ""
     },
     "32": {
-      "value": "{base.font.size.default} * 8",
+      "value": "{base.font.size.const} * 8",
       "type": "dimension",
       "description": ""
     },
     "36": {
-      "value": "{base.font.size.default} * 9",
+      "value": "{base.font.size.const} * 9",
       "type": "dimension",
       "description": ""
     },
     "40": {
-      "value": "{base.font.size.default} * 10",
+      "value": "{base.font.size.const} * 10",
       "type": "dimension",
       "description": ""
     },
     "44": {
-      "value": "{base.font.size.default} * 11",
+      "value": "{base.font.size.const} * 11",
       "type": "dimension",
       "description": ""
     },
     "48": {
-      "value": "{base.font.size.default} * 12",
+      "value": "{base.font.size.const} * 12",
       "type": "dimension",
       "description": ""
     },
     "52": {
-      "value": "{base.font.size.default} * 13",
+      "value": "{base.font.size.const} * 13",
       "type": "dimension",
       "description": ""
     },
     "56": {
-      "value": "{base.font.size.default} * 14",
+      "value": "{base.font.size.const} * 14",
       "type": "dimension",
       "description": ""
     },
     "60": {
-      "value": "{base.font.size.default} * 15",
+      "value": "{base.font.size.const} * 15",
       "type": "dimension",
       "description": ""
     },
     "64": {
-      "value": "{base.font.size.default} * 16",
+      "value": "{base.font.size.const} * 16",
       "type": "dimension",
       "description": ""
     },
     "72": {
-      "value": "{base.font.size.default} * 18",
+      "value": "{base.font.size.const} * 18",
       "type": "dimension",
       "description": ""
     },
     "80": {
-      "value": "{base.font.size.default} * 20",
+      "value": "{base.font.size.const} * 20",
       "type": "dimension",
       "description": ""
     },
     "96": {
-      "value": "{base.font.size.default} * 24",
+      "value": "{base.font.size.const} * 24",
       "type": "dimension",
       "description": ""
     },
     "112": {
-      "value": "{base.font.size.default} * 28",
+      "value": "{base.font.size.const} * 28",
       "type": "dimension",
       "description": ""
     },
     "128": {
-      "value": "{base.font.size.default} * 32",
+      "value": "{base.font.size.const} * 32",
       "type": "dimension",
       "description": ""
     },
     "144": {
-      "value": "{base.font.size.default} * 36",
+      "value": "{base.font.size.const} * 36",
       "type": "dimension",
       "description": ""
     },
     "160": {
-      "value": "{base.font.size.default} * 40",
+      "value": "{base.font.size.const} * 40",
       "type": "dimension",
       "description": ""
     },
     "176": {
-      "value": "{base.font.size.default} * 44",
+      "value": "{base.font.size.const} * 44",
       "type": "dimension",
       "description": ""
     },
     "192": {
-      "value": "{base.font.size.default} * 48",
+      "value": "{base.font.size.const} * 48",
       "type": "dimension",
       "description": ""
     },
     "208": {
-      "value": "{base.font.size.default} * 52",
+      "value": "{base.font.size.const} * 52",
       "type": "dimension",
       "description": ""
     },
     "224": {
-      "value": "{base.font.size.default} * 56",
+      "value": "{base.font.size.const} * 56",
       "type": "dimension",
       "description": ""
     },
     "240": {
-      "value": "{base.font.size.default} * 60",
+      "value": "{base.font.size.const} * 60",
       "type": "dimension",
       "description": ""
     },
     "256": {
-      "value": "{base.font.size.default} * 64",
+      "value": "{base.font.size.const} * 64",
       "type": "dimension",
       "description": ""
     },
     "288": {
-      "value": "{base.font.size.default} * 72",
+      "value": "{base.font.size.const} * 72",
       "type": "dimension",
       "description": ""
     },
     "320": {
-      "value": "{base.font.size.default} * 80",
+      "value": "{base.font.size.const} * 80",
       "type": "dimension",
       "description": ""
     },
     "384": {
-      "value": "{base.font.size.default} * 96",
+      "value": "{base.font.size.const} * 96",
       "type": "dimension",
       "description": ""
     },
     "1:5": {
-      "value": "{base.font.size.default} * 0.375",
+      "value": "{base.font.size.const} * 0.375",
       "type": "dimension",
       "description": ""
     },
     "2:5": {
-      "value": "{base.font.size.default} * 0.625",
+      "value": "{base.font.size.const} * 0.625",
       "type": "dimension",
       "description": ""
     },
     "3:5": {
-      "value": "{base.font.size.default} * 0.875",
+      "value": "{base.font.size.const} * 0.875",
       "type": "dimension",
       "description": ""
     },
@@ -3900,7 +3904,7 @@
   "container": {
     "const": {
       "max": {
-        "value": "{viewport.md}",
+        "value": "{viewport.lg}",
         "type": "sizing"
       },
       "min": {

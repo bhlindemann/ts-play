@@ -14,10 +14,9 @@
         "oldValue": "{color.light.bg.base.secondary}"
       },
       "emphasis": {
-        "value": "{color.light.bg.base.emphasis}",
+        "value": "{brand.color.Secondary.Emerald.400}",
         "type": "color",
         "parent": "Mode/light",
-        "description": "",
         "oldValue": "{color.light.bg.base.emphasis}"
       },
       "bad": {

@@ -1,9 +1,9 @@
 {
   "base": {
-    "size": {
-      "const": {
-        "font": {
-          "value": "{base.size.font.dense}",
+    "font": {
+      "size": {
+        "const": {
+          "value": "{base.font.size.dense}",
           "type": "sizing"
         }
       }

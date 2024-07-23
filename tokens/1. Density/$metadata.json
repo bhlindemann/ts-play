@@ -10,6 +10,7 @@
     "viewport/@xs",
     "viewport/@sm",
     "viewport/@md",
+    "viewport/@lg",
     "viewport/@xl",
     "viewport/@2xl",
     "density/@dense",
