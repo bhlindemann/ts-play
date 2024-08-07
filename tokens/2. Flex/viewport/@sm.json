@@ -1,0 +1,10 @@
+{
+  "viewport": {
+    "params": {
+      "width": {
+        "value": "{viewport.sm}",
+        "type": "sizing"
+      }
+    }
+  }
+}

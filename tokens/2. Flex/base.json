@@ -1,0 +1,54 @@
+{
+  "viewport": {
+    "params": {
+      "width": {
+        "value": "{viewport.xs}",
+        "type": "sizing"
+      }
+    },
+    "xs": {
+      "value": "320",
+      "type": "sizing"
+    },
+    "sm": {
+      "value": "640",
+      "type": "sizing"
+    },
+    "md": {
+      "value": "768",
+      "type": "sizing"
+    },
+    "lg": {
+      "value": "1024",
+      "type": "sizing"
+    },
+    "xl": {
+      "value": "1280",
+      "type": "sizing"
+    },
+    "2xl": {
+      "value": "1536",
+      "type": "sizing"
+    },
+    "3xl": {
+      "value": "1920",
+      "type": "sizing"
+    },
+    "4xl": {
+      "value": "2560",
+      "type": "sizing"
+    }
+  },
+  "container": {
+    "params": {
+      "max": {
+        "value": "{viewport.lg}",
+        "type": "sizing"
+      },
+      "min": {
+        "value": "0",
+        "type": "sizing"
+      }
+    }
+  }
+}
