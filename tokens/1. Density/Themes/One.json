@@ -20,7 +20,7 @@
     "font": {
       "size": {
         "default": {
-          "value": "16",
+          "value": "16px",
           "type": "sizing"
         },
         "dense": {
@@ -48,7 +48,7 @@
           "type": "sizing"
         },
         "const": {
-          "value": "{base.font.size.const}",
+          "value": "{base.font.size.default}",
           "type": "sizing"
         }
       },
